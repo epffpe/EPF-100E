@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=BSYNC Pin=U2-23
+Removed Pin From Net: NetName=DREQ Pin=U2-24
+Removed Pin From Net: NetName=D\I\S\P\_\R\S\T\ Pin=U2-47
+Removed Pin From Net: NetName=DISP_A0 Pin=U2-48
+Removed Pin From Net: NetName=GND Pin=X1-2
+Removed Pin From Net: NetName=GND Pin=X1-4
+Added Pin To Net: NetName=DISP_A0 Pin=U2-23
+Added Pin To Net: NetName=D\I\S\P\_\R\S\T\ Pin=U2-24
+Added Pin To Net: NetName=DREQ Pin=U2-47
+Added Pin To Net: NetName=BSYNC Pin=U2-48

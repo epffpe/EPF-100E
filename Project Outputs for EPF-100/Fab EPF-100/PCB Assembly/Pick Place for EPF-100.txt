@@ -1,0 +1,122 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C57        CAP0603                307mil   -600.551mil        307mil   -600.551mil        307mil   -634.016mil  T         90.00 4.7uF          
+C56        CAP0603                880mil       -380mil        880mil       -380mil    846.535mil       -380mil  T        360.00 1uF            
+GND        PCB_TEST_POINT        1660mil       -490mil       1660mil       -490mil       1660mil       -490mil  B         90.00 PCB TEST POINT 
+GND        PCB_TEST_POINT        3480mil        315mil       3480mil        315mil       3480mil        315mil  B         90.00 PCB TEST POINT 
+GND        PCB_TEST_POINT        1640mil        665mil       1640mil        665mil       1640mil        665mil  T        360.00 PCB TEST POINT 
+RESET      PCB_TEST_POINT        1455mil        405mil       1455mil        405mil       1455mil        405mil  T        360.00 PCB TEST POINT 
+R29        RES0603                970mil        295mil        970mil        295mil   1003.465mil        295mil  T        180.00 470R 5%        
+R28        RES0603               2830mil        300mil       2830mil        300mil   2796.535mil        300mil  T        360.00 470R 5%        
+D2         LED0603                970mil        235mil        970mil        235mil   1003.465mil        235mil  T        180.00 LED            
+D1         LED0603               2830mil        240mil       2830mil        240mil   2796.535mil        240mil  T          0.00 LED            
+C55        CAP0805                955mil        270mil        955mil        270mil        955mil     309.37mil  B        270.00 10uF           
+LS2        SMS-1308MS-2-R    1297.244mil          0mil   1314.961mil          0mil   1125.984mil    224.409mil  B         90.00 SMS-1308MS-2-R 
+S3         B3U-3100P-B            640mil     647.52mil        640mil        680mil    573.071mil        680mil  T        360.00 switch         
+LS1        HDR1X2_-_Speaker        950mil     439.37mil        950mil        400mil        950mil        400mil  T         90.00 Speaker        
+P5         HDR1X3                1030mil       -480mil       1030mil       -580mil       1030mil       -580mil  B         90.00 Battery 3      
+C1         CAP0603            2006.25mil   -655.551mil    2006.25mil   -655.551mil   1972.785mil   -655.551mil  T          0.00 1uF            
+C2         CAP0603           1865.015mil       -655mil   1865.015mil       -655mil   1898.479mil       -655mil  T        180.00 1uF            
+C3         CAP0603           2143.125mil   -655.551mil   2143.125mil   -655.551mil    2109.66mil   -655.551mil  T          0.00 1uF            
+C4         CAP0603           1321.875mil   -655.551mil   1321.875mil   -655.551mil    1288.41mil   -655.551mil  T        360.00 1uF            
+C5         CAP0603               1185mil   -655.551mil       1185mil   -655.551mil   1218.465mil   -655.551mil  T        180.00 1uF            
+C6         CAP0603            1458.75mil   -655.551mil    1458.75mil   -655.551mil   1492.215mil   -655.551mil  T        180.00 1uF            
+C7         CAP0603           1595.625mil   -655.551mil   1595.625mil   -655.551mil    1562.16mil   -655.551mil  T        360.00 1uF            
+C8         CAP0603               1730mil       -655mil       1730mil       -655mil   1696.535mil       -655mil  T        360.00 1uF            
+C9         CAP0603               3290mil       -530mil       3290mil       -530mil       3290mil   -563.465mil  T         90.00 100nF          
+C10        CAP0603                250mil   -600.551mil        250mil   -600.551mil        250mil   -634.016mil  T         90.00 100nF          
+C11        CAP0603                925mil       -600mil        925mil       -600mil        925mil   -633.465mil  T         90.00 1uF            
+C12        CAP0603                805mil   -600.551mil        805mil   -600.551mil        805mil   -634.016mil  T         90.00 100nF          
+C13        CAP0603           1655.551mil        595mil   1655.551mil        595mil   1655.551mil    628.465mil  B        270.00 100nF          
+C14        CAP0603               2110mil    464.449mil       2110mil    464.449mil   2143.464mil    464.449mil  T        180.00 18pF           
+C15        CAP0603               1990mil    464.449mil       1990mil    464.449mil   1956.535mil    464.449mil  T        360.00 18pF           
+C16        CAP0603               2138mil       -439mil       2138mil       -439mil       2138mil   -472.464mil  B         90.00 10nF           
+C17        CAP0603               1901mil       -455mil       1901mil       -455mil       1901mil   -488.464mil  B         90.00 100nF          
+C18        CAP0603           1619.449mil         -5mil   1619.449mil         -5mil   1619.449mil     28.465mil  B        270.00 10nF           
+C19        CAP0603           1684.449mil         -5mil   1684.449mil         -5mil   1684.449mil     28.465mil  B        270.00 100nF          
+C20        CAP0603               2140mil        300mil       2140mil        300mil   2173.465mil        300mil  B        180.00 10nF           
+C21        CAP0603               1970mil        300mil       1970mil        300mil   2003.465mil        300mil  B        180.00 1uF            
+C22        CAP0603               1870mil        580mil       1870mil        580mil       1870mil    613.465mil  T        270.00 22pF           
+C23        CAP0603               1870mil        450mil       1870mil        450mil       1870mil    416.536mil  T         90.00 22pF           
+C24        CAP0603           2628.464mil   -120.551mil   2628.465mil   -120.551mil   2661.929mil   -120.551mil  B        180.00 100nF          
+C25        CAP0603           2628.464mil   -200.551mil   2628.465mil   -200.551mil   2661.929mil   -200.551mil  B        180.00 100nF          
+C26        CAP0603               1715mil        280mil       1715mil        280mil       1715mil    313.464mil  B        270.00 1uF            
+C27        CAP0603               2470mil       -440mil       2470mil       -440mil       2470mil   -473.464mil  B         90.00 1uF            
+C28        CAP0603               3420mil   -434.449mil       3420mil   -434.449mil       3420mil   -467.913mil  T         90.00 4.7uF          
+C29        CAP0603           3294.449mil        345mil   3294.449mil        345mil   3327.913mil        345mil  T        180.00 1uF            
+C30        CAP0603           3289.449mil        640mil   3289.449mil        640mil   3255.984mil        640mil  T        360.00 1uF            
+C31        CAP0603               3420mil   -294.449mil       3420mil   -294.449mil       3420mil   -327.913mil  T         90.00 4.7uF          
+C32        CAP0603               2495mil        160mil       2495mil        160mil   2461.535mil        160mil  B        360.00 100nF          
+C33        CAP0603               2365mil        485mil       2365mil        485mil   2331.535mil        485mil  B        360.00 100nF          
+C34        CAP0603            3114.09mil    527.816mil    3114.09mil    527.816mil   3147.555mil    527.816mil  B        180.00 100nF          
+C35        CAP0603               3115mil        450mil       3115mil        450mil   3148.465mil        450mil  B        180.00 100nF          
+C36        CAP0603           3114.449mil    447.071mil   3114.449mil    447.071mil   3147.914mil    447.071mil  T        180.00 100nF          
+C37        CAP0603           3114.449mil    510.711mil   3114.449mil    510.711mil   3147.914mil    510.711mil  T        180.00 100nF          
+C38        CAP0603           3114.449mil     637.99mil   3114.449mil     637.99mil   3147.914mil     637.99mil  T        180.00 100nF          
+C39        CAP0603               3115mil        385mil       3115mil        385mil   3148.465mil        385mil  B        180.00 100nF          
+C40        CAP0603               3115mil        385mil       3115mil        385mil   3148.465mil        385mil  T        180.00 100nF          
+C41        CAP0603               2365mil        545mil       2365mil        545mil   2331.535mil        545mil  B        360.00 100nF          
+C42        CAP0603           3294.449mil        415mil   3294.449mil        415mil   3260.984mil        415mil  T        360.00 10nF           
+C43        CAP0603               3540mil   -434.449mil       3540mil   -434.449mil       3540mil   -400.984mil  T        270.00 10nF           
+C44        CAP0603               3540mil   -294.449mil       3540mil   -294.449mil       3540mil   -260.984mil  T        270.00 10nF           
+C45        CAP0603                620mil        475mil        620mil        475mil    653.465mil        475mil  T        180.00 10nF           
+C46        CAP0603                620mil        475mil        620mil        475mil    653.465mil        475mil  B        180.00 10nF           
+C47        CAP0805               2805mil   -335.551mil       2805mil   -335.551mil       2805mil   -374.921mil  T         90.00 10uF           
+C52        CAP0603               2590mil         55mil       2590mil         55mil       2590mil     88.465mil  B        270.00 18pF           
+C48        CAP0603               3005mil   -330.551mil       3005mil   -330.551mil       3005mil   -297.087mil  T        270.00 100pF          
+C49        CAP0603               3065mil   -330.551mil       3065mil   -330.551mil       3065mil   -297.087mil  T        270.00 100nF          
+C53        CAP0603               2925mil         55mil       2925mil         55mil       2925mil     21.535mil  B         90.00 18pF           
+C50        CAP0603               3125mil   -330.551mil       3125mil   -330.551mil       3125mil   -297.087mil  T        270.00 100pF          
+C51        CAP0805               3065mil   -490.551mil       3065mil   -490.551mil    3025.63mil   -490.551mil  T        360.00 10uF           
+C54        CAP0603           3114.449mil     574.35mil   3114.449mil     574.35mil   3147.914mil     574.35mil  T        180.00 1uF            
+J1         NHD-C12832A1Z         1900mil   -120.551mil       1900mil   -120.551mil   1427.559mil   -563.465mil  T        360.00 NHD-C12832A1Z-FSW-FBW-3V3
+J2         ALPS-SCHD1A0101       3020mil   -437.284mil       3020mil       -130mil   2894.016mil    -498.11mil  B        180.00 MicroSD        
+L1         NR3010                 315mil       -395mil        315mil       -395mil    358.307mil       -395mil  T        180.00 NR3010T2R2M    
+MIC1       TOM-154P-R            3020mil    -15.748mil       3020mil          0mil   2996.378mil    -15.748mil  T        180.00 TOM-1545P-R    
+P1         HDR1X5_-_USB           825mil      -2.52mil        825mil       -160mil        825mil       -160mil  T         90.00 USB extension  
+P4         TC2050-IDC-NL         1235mil        505mil       1085mil        505mil       1135mil        480mil  T        360.00 TC2050-IDC-NL  
+R1         RES0603           1342.402mil   -498.412mil   1342.402mil   -498.412mil   1375.867mil   -498.412mil  B        180.00 22R 5%         
+R2         RES0603                368mil   -600.551mil        368mil   -600.551mil        368mil   -567.087mil  T        270.00 10K 5%         
+R3         RES0603                428mil       -600mil        428mil       -600mil        428mil   -566.535mil  T        270.00 10K 5%         
+R4         RES0603                550mil   -600.551mil        550mil   -600.551mil        550mil   -634.016mil  T         90.00 56.2K          
+R5         RES0603                490mil   -600.551mil        490mil   -600.551mil        490mil   -634.016mil  T         90.00 2.94K          
+R6         RES0603                610mil   -600.551mil        610mil   -600.551mil        610mil   -634.016mil  T         90.00 3.57k          
+R7         RES0603                670mil   -600.551mil        670mil   -600.551mil        670mil   -634.016mil  T         90.00 4.32K          
+R8         RES0603                190mil   -600.551mil        190mil   -600.551mil        190mil   -634.016mil  T         90.00 0R             
+R9         RES0603             71.221mil   -600.551mil     71.221mil   -600.551mil     71.221mil   -634.016mil  T         90.00 0R             
+R10        RES0603                880mil       -440mil        880mil       -440mil    846.535mil       -440mil  T        360.00 470R 5%        
+R11        RES0603             131.22mil   -600.551mil     131.22mil   -600.551mil     131.22mil   -634.016mil  T         90.00 0R             
+R12        RES0603                825mil        635mil        825mil        635mil        825mil    601.535mil  T         90.00 470R 5%        
+R13        RES0603                865mil       -600mil        865mil       -600mil        865mil   -566.535mil  T        270.00 56.2K          
+R14        RES0603           1715.551mil        595mil   1715.551mil        595mil   1715.551mil    561.535mil  B         90.00 10K 5%         
+R15        RES0603                745mil   -600.551mil        745mil   -600.551mil        745mil   -634.016mil  T         90.00 100K 5%        
+R16        RES0603                885mil        635mil        885mil        635mil        885mil    601.535mil  T         90.00 1M 5%          
+R17        RES0603               3480mil   -434.449mil       3480mil   -434.449mil       3480mil   -467.913mil  T         90.00 470R 5%        
+R18        RES0603               3480mil   -294.449mil       3480mil   -294.449mil       3480mil   -327.913mil  T         90.00 470R 5%        
+R19        RES0603            620.551mil        535mil    620.551mil        535mil    587.087mil        535mil  T        360.00 22R 5%         
+R20        RES0603                620mil        535mil        620mil        535mil    586.535mil        535mil  B        360.00 22R 5%         
+R21        RES0603            3114.09mil    591.456mil    3114.09mil    591.456mil   3147.555mil    591.456mil  B        180.00 100K 5%        
+R22        RES0603               2885mil   -330.551mil       2885mil   -330.551mil       2885mil   -364.016mil  T         90.00 1K 5%          
+R23        RES0603               2945mil   -330.551mil       2945mil   -330.551mil       2945mil   -297.087mil  T        270.00 1K 5%          
+R25        RES0603               2710mil    165.551mil       2710mil    165.551mil   2743.465mil    165.551mil  B        180.00 1M 5%          
+R24        RES0603               3185mil   -330.551mil       3185mil   -330.551mil       3185mil   -364.016mil  T         90.00 1K 5%          
+R26        RES0603               3245mil   -330.551mil       3245mil   -330.551mil       3245mil   -297.087mil  T        270.00 1K 5%          
+R27        RES0603            3114.09mil    322.755mil    3114.09mil    322.755mil   3147.555mil    322.755mil  B        180.00 100K 5%        
+S1         TACTILE_SWITCH_3.5X6        975mil          0mil        975mil          0mil        975mil       -150mil  T        360.00 switch         
+S2         TACTILE_SWITCH_3.5X6       2835mil          0mil       2835mil          0mil       2835mil       -150mil  T        360.00 switch         
+3V3        PCB_TEST_POINT        3480mil       -410mil       3480mil       -410mil       3480mil       -410mil  B         90.00 +MCU_PWR       
+U1         QFN50P300X300-16V6N        605mil       -405mil        605mil       -405mil    664.055mil   -434.527mil  T        180.00 BQ24232H       
+U2         LQFP64_N              1990mil        -80mil       1990mil        -80mil   2137.638mil   -298.504mil  B         90.00 TM4C123xxx     
+U3         SON50P300X300X80-10W2N        120mil       -420mil        120mil       -420mil     159.37mil   -360.945mil  T        270.00 TPS63031       
+U4         SOT23-5BN         3294.448mil    528.465mil   3294.448mil    528.465mil   3247.204mil    565.866mil  T        360.00 LP2985-18DBVR  
+U5         TQFP48_N_-_VLSI       2690mil        445mil       2690mil        445mil   2867.165mil    553.268mil  B        180.00 VS1063A        
+X1         SMD_XTAL_ABM3B        2750mil     55.551mil       2750mil     55.551mil       2830mil      4.301mil  B        180.00 12.288MHz      
+Y1         NX5032GA              2055mil    569.449mil       2055mil    569.449mil    2133.74mil    569.449mil  T        180.00 16MHz          
+Y2         AB26TRB-32.768KHZ-_T       1670mil        515mil       1670mil        515mil    1788.11mil        565mil  T        360.00 32.768KHZ      
+RX         PCB_TEST_POINT        1830mil   -425.551mil       1830mil   -425.551mil       1830mil   -425.551mil  B         90.00 PCB TEST POINT 
+TX         PCB_TEST_POINT        1830mil       -490mil       1830mil       -490mil       1830mil       -490mil  B         90.00 PCB TEST POINT 
+J3         SJ-3503-SMT       3389.095mil          0mil       3645mil          0mil   3530.827mil    -157.48mil  T        180.00 SJ-3503-SMT    
+J4         SJ-3503-SMT        255.905mil        500mil          0mil        500mil    114.173mil     657.48mil  T        360.00 SJ-3503-SMT    
+P2         HDR1X6                1285mil        645mil       1035mil        645mil       1035mil        645mil  T        360.00 ICDI_JTAG      
+P3         Header2Macho           970mil       -275mil        920mil       -275mil        920mil       -275mil  T        360.00 Header2        
+

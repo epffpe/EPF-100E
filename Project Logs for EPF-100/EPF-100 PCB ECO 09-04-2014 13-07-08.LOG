@@ -1,0 +1,4 @@
+Added Component: Designator=C57(CAP0603)
+Added Pin To Net: NetName=CHGR_VOUT Pin=C57-1
+Added Pin To Net: NetName=GND Pin=C57-2
+Added Member To Class: ClassName=EPF-100 Logic Member=Component C57 4.7uF

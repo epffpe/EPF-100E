@@ -1,0 +1,5 @@
+Added Component: Designator=P5(HDR1X3)
+Added Pin To Net: NetName=BAT_TS Pin=P5-1
+Added Pin To Net: NetName=VBAT+ Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Member To Class: ClassName=EPF-100 Logic Member=Component P5 Battery 3

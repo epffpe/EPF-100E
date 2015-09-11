@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P5 Old Footprint=DF13A-3P-1.25H(20) - duplicate New Footprint=HDR1X3
+Change Component Footprint: Designator=P1 Old Footprint=DF13A-5P-1.25H(20) New Footprint=HDR1X5
+Added Member To Class: ClassName=EPF-100 MP3 Member=Component C54 1uF
+Added Member To Class: ClassName=EPF-100 MP3 Member=Component R27 100K 5%
+Added Member To Class: ClassName=EPF-100 MP3 Member=Component U5 VS1063A

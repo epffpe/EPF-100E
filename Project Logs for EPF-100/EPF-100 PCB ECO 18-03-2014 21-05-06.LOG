@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC22_1 Pin=Y2-1
+Removed Pin From Net: NetName=NetC23_1 Pin=Y2-2
+Added Pin To Net: NetName=NetC23_1 Pin=Y2-1
+Added Pin To Net: NetName=NetC22_1 Pin=Y2-2
+Change Room Name: Old Name=RoomDefinition_1 New Name=EPF-100 MP3
+Change Room Scope: Old Scope=InComponentClass('Components Class 1') New Scope=InComponentClass('EPF-100 MP3')

@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\epf\Dropbox\GloberDesign\MP3 Recorder\EPF-100\EPF-100.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Vias|Scope=Board|Minimum=-39.37
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_J3|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_J4|Scope=Board|Minimum=0.00

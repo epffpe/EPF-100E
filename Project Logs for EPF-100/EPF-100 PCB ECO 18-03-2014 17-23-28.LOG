@@ -1,0 +1,9 @@
+Added Component: Designator=TP5(PCB TEST POINT)
+Added Component: Designator=TP6(PCB TEST POINT)
+Added Component: Designator=TP7(PCB TEST POINT)
+Added Pin To Net: NetName=GND Pin=TP5-1
+Added Pin To Net: NetName=GND Pin=TP6-1
+Added Pin To Net: NetName=GND Pin=TP7-1
+Added Member To Class: ClassName=EPF-100 MP3 Member=Component TP5 PCB TEST POINT
+Added Member To Class: ClassName=EPF-100 MP3 Member=Component TP6 PCB TEST POINT
+Added Member To Class: ClassName=EPF-100 MP3 Member=Component TP7 PCB TEST POINT

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC31_1 Pin=J?-3
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=NetC28_1 Pin=J3-2
+Added Pin To Net: NetName=NetC31_1 Pin=J3-3
+Added Pin To Net: NetName=MIC+ Pin=J3-5
+Added Pin To Net: NetName=LOUT Pin=J4-3
+Added Member To Class: ClassName=EPF-100 MP3 Member=Component J4 SJ-3503-SMT

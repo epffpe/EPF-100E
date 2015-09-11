@@ -1,0 +1,12 @@
+Added Component: Designator=P2(HDR1X6)
+Added Component: Designator=P3(Header2Macho)
+Added Pin To Net: NetName=TCK/SWCLK Pin=P2-1
+Added Pin To Net: NetName=TMS/SWDIO Pin=P2-2
+Added Pin To Net: NetName=TDI Pin=P2-3
+Added Pin To Net: NetName=TDO/SWO Pin=P2-4
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Pin To Net: NetName=U3RX Pin=P3-1
+Added Pin To Net: NetName=U3TX Pin=P3-2
+Added Member To Class: ClassName=EPF-100 Logic Member=Component P2 ICDI_JTAG
+Added Member To Class: ClassName=EPF-100 Logic Member=Component P3 Header2

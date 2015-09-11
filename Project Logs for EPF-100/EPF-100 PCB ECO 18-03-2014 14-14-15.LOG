@@ -1,0 +1,4 @@
+Added Component: Designator=LS2(SMS-1308MS-2-R)
+Added Pin To Net: NetName=SPEAKER Pin=LS2-1
+Added Pin To Net: NetName=GND Pin=LS2-2
+Added Member To Class: ClassName=EPF-100 MP3 Member=Component LS2 SMS-1308MS-2-R

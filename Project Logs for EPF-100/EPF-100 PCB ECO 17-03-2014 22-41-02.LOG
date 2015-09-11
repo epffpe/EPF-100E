@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=RX NewDesignator=TP2
+Change Component Designator: OldDesignator=TX NewDesignator=TP3
+Added Component: Designator=LS1(DF13A-3P-1.25H(20))
+Added Pin To Net: NetName=SPEAKER Pin=LS1-1
+Added Pin To Net: NetName=GND Pin=LS1-2
+Added Member To Class: ClassName=EPF-100 MP3 Member=Component LS1 Speaker

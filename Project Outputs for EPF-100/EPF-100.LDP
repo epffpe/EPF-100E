@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\epf\Dropbox\GloberDesign\MP3 Recorder\EPF-100\EPF-100.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=epf-100-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=epf-100-slotholes.txt|LayerPairs=gtl,gbl

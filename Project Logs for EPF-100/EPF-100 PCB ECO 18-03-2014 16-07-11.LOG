@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=SPEAKER Pin=C56-1
+Removed Member From Class: ClassName=EPF-100 MP3 Member=C56
+Added Pin To Net: NetName=NetC55_2 Pin=LS2-1

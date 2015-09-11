@@ -1,0 +1,26 @@
+Added Component: Designator=D1(LED0603)
+Added Component: Designator=D2(LED0603)
+Added Component: Designator=R28(RES0603)
+Added Component: Designator=R29(RES0603)
+Added Component: Designator=TP4(PCB TEST POINT)
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=TP4-1
+Added Pin To Net: NetName=LED1 Pin=R28-1
+Added Pin To Net: NetName=LED1 Pin=U2-1
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=R29-1
+Added Pin To Net: NetName=LED2 Pin=U2-31
+Added Net: Name=LED2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R28-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R29-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=VCC Pin=D1-1
+Added Pin To Net: NetName=VCC Pin=D2-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=EPF-100 Logic Member=Component D1 LED
+Added Member To Class: ClassName=EPF-100 Logic Member=Component D2 LED
+Added Member To Class: ClassName=EPF-100 Logic Member=Component R28 470R 5%
+Added Member To Class: ClassName=EPF-100 Logic Member=Component R29 470R 5%
+Added Member To Class: ClassName=EPF-100 Logic Member=Component TP4 PCB TEST POINT
